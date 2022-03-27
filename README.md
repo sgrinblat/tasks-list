@@ -14,7 +14,7 @@ This is a small app made with React. You can write tasks to do, edit them, elimi
 
 ### Screenshot
 
-![](./img/preview.jpg)
+![](preview.jpg)
 
 ### Links
 
